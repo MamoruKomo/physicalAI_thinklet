@@ -1,0 +1,4 @@
+{
+  "arduino": { "serial_port": "/dev/cu.usbmodemXXXX" },
+  "thinklet_cube": { "adb_serial": "YOUR_THINKLET_SERIAL" }
+}

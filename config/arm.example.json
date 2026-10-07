@@ -1,0 +1,10 @@
+{
+  "hardware_confirmed": false,
+  "servo_pin": 9,
+  "lower_angle": 70,
+  "upper_angle": 110,
+  "home_angle": 90,
+  "threshold": 50,
+  "hysteresis": 4,
+  "bright_raises": true
+}
