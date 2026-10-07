@@ -1,0 +1,16 @@
+.DS_Store
+*.local.json
+.env
+.env.*
+!.env.example
+secrets/
+*.log
+logs/
+__pycache__/
+*.py[cod]
+.venv/
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
